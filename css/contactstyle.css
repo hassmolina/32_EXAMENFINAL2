@@ -1,0 +1,14 @@
+#fondocontact{
+  background-image: url("../images/blog3.jpg");
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.contactus{
+  padding: 2%;
+  background-color: orange;
+  display: inline;
+}
+.text-white{
+  color:white;
+}

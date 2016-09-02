@@ -11,10 +11,13 @@ img{
 .mb-5{
   margin-bottom: 5%;
 }
+.mb-10{
+  margin-bottom: 10%;
+}
 .pt-5{
   padding-top: 5%
 }
-.pt-5{
+.pb-5{
   padding-bottom: 5%;
 }
 /*NAV*/
@@ -36,8 +39,13 @@ img{
     background:transparent;
 }
 /*OPENING TIME*/
-span{
-  font-size:
+.icon-clock{
+  font-size:500%;
+}
+/*MENU*/
+.navbar{
+  background-color:#c1b3b3 ;
+  margin: 0!important;
 }
 /*SECCION PRINCIPAL*/
 #imgprincipal{
@@ -45,9 +53,22 @@ span{
   height: 500px;
 }
 /*CARROUSEL*/
+.borderseason{
+  border: 2px solid white;
+  padding: 2%;
+  display: inline;
+}
+/*SECCION 2 IMAGENES=ACCESORIOS Y NUEVOS LANZAMIENTOS*/
+.imgnew{
+  height: 300px;
+}
 /*CLIENTES*/
 #imgclientes{
   background-image: url("../images/client-bg.jpg");
-  height: 200px;
+  height: 250px;
   background-color: #5c7cb6;
 }
+.paddingclientes{
+  padding: 5% 1%;
+}
+/*BACK TO TOP*/
